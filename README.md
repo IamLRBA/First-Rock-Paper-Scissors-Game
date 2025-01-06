@@ -4,13 +4,13 @@ Features:
     -Randomized opponent: The computer's choice is fully randomized to ensure fair gameplay.
     -Score tracking: Tracks and displays scores for both the user and the computer.
     
-How to Play:
+How to Play the Game:
     -Select Rock, Paper, or Scissors by clicking the respective button.
     -The computer will automatically select its move.
     -Results will be displayed showing who won the round and the current score.
     -Keep playing to try to beat the computer's score!
 
-Technologies Used:
+Technologies Used in the Game:
     -HTML
     -CSS
     -JavaScript

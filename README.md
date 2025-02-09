@@ -2,7 +2,7 @@
 
 - **An interactive UI**: Users can easily choose Rock, Paper, or Scissors.
 - **A real-time feedback**: Instantly displays whether you win, lose, or tie after each round.
-- **Randomized opponent**: The computer's choice is fully randomized to ensure fair gameplay.
+- **A randomized opponent**: The computer's choice is fully randomized to ensure fair gameplay.
 - **Score tracking**: Tracks and displays scores for both the user and the computer.
     
 # How to Play the Game:
